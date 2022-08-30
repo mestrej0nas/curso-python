@@ -1,0 +1,4 @@
+print('Meu primeiro código Python')
+numero = 14
+soma = numero + 4
+print (soma) 
